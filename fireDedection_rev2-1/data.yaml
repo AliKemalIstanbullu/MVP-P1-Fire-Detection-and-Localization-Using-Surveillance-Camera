@@ -1,0 +1,12 @@
+names:
+- Fire
+nc: 1
+roboflow:
+  license: CC BY 4.0
+  project: firededection_rev2
+  url: https://universe.roboflow.com/durhamcollege/firededection_rev2/dataset/1
+  version: 1
+  workspace: durhamcollege
+test: ../test/images
+train: fireDedection_rev2-1/train/images
+val: fireDedection_rev2-1/valid/images
