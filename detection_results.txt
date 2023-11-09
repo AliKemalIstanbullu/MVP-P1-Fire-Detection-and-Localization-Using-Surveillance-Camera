@@ -1,0 +1,13 @@
+Image Name, Object Detected, Number of Objects
+images57.jpg, ['fire'], 11
+images58.jpg, ['fire'], 6
+images60.jpg, ['fire'], 23
+images61.jpg, ['fire'], 6
+images64.jpg, [], 0
+images65.jpg, ['fire'], 6
+images66.jpg, ['fire'], 1
+test_image.jpg, ['fire'], 3
+test_image1.jpg, ['fire'], 6
+test_image3.jpg, ['fire'], 11
+test_image4.jpg, ['fire'], 6
+test_image6.jpg, ['fire'], 23
